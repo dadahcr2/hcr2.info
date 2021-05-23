@@ -294,6 +294,7 @@ Distance | Obstacle
 25 600 | Moat
 
 #### Desert valley obstacles
+
 Distance | Obstacle
 :-- | :--
 1090 | Swing
