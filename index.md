@@ -145,21 +145,21 @@ Relegate |  |  | 400↓↓ | 800↓↓ | 1900↓↓ |  |  |
 - [Official wiki](http://wiki.hcr2.info)
 - [Original reddit wiki](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2)  
 
-###### [Getting started tips](http://tips.hcr2.info)  
+#### [Getting started tips](http://tips.hcr2.info)  
 
-###### [Game Manual](https://drive.google.com/file/d/1GJqkqqvUuArcJe7balZAtpPQcO0me3d1/view) 
+#### [Game Manual](https://drive.google.com/file/d/1GJqkqqvUuArcJe7balZAtpPQcO0me3d1/view) 
 
 
 **Videos**
-###### [Linus jumpshock tutorial](https://youtu.be/GzSkfF3lwX0)
+#### [Linus jumpshock tutorial](https://youtu.be/GzSkfF3lwX0)
 [![](http://img.youtube.com/vi/GzSkfF3lwX0/0.jpg)](http://www.youtube.com/watch?v=GzSkfF3lwX0)
-###### [How to do a Neck Flip](https://youtu.be/ANe7YnW1T9w)
+#### [How to do a Neck Flip](https://youtu.be/ANe7YnW1T9w)
 [![](http://img.youtube.com/vi/ANe7YnW1T9w/0.jpg)](http://www.youtube.com/watch?v=ANe7YnW1T9w)
 [](###### [Neck flip the easy way](https://youtu.be/bgUmbi0HBCk)
 [![Neck Flip the Rasy Way](http://img.youtube.com/vi/bgUmbi0HBCk/0.jpg)](https://youtu.be/bgUmbi0HBCk))
-###### [Moonlander coin trick tutorial](http://www.youtube.com/watch?v=ATDNgvF0XhQ)
+#### [Moonlander coin trick tutorial](http://www.youtube.com/watch?v=ATDNgvF0XhQ)
 [![Moonlander coin trick tutorial](http://img.youtube.com/vi/ATDNgvF0XhQ/0.jpg)](http://www.youtube.com/watch?v=ATDNgvF0XhQ)
-###### [How to remove part of vehicles](https://youtu.be/tXbQgs6c_fI)
+#### [How to remove part of vehicles](https://youtu.be/tXbQgs6c_fI)
 [![](http://img.youtube.com/vi/tXbQgs6c_fI/0.jpg)](http://www.youtube.com/watch?v=tXbQgs6c_fI)
 ### Vehicles
 #### Parts required & costs  
