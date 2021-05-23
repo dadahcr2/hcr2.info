@@ -170,6 +170,7 @@ Relegate |  |  | 400↓↓ | 800↓↓ | 1900↓↓ |  |  |
 #### Fuel duration
 ![Fuel](https://media.discordapp.net/attachments/617353655468687390/777544549416697876/image0.png?width=533&height=744)
 #### Parts suggestions
+
 Vehicle | Parts
 :-- | :--
 Hill Climber | Wings JumpShock LandingBoost
