@@ -429,4 +429,4 @@ We are an open team, so no password.  If there is an spot available and the belo
 
 	![](https://cdn.discordapp.com/attachments/616461538978693141/739209195382898837/image0.jpg)
 
-***
+
