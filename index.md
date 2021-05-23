@@ -21,6 +21,9 @@
 
 ![](https://memeguy.com/photos/images/get-your-jimmies-rustled-in-a-fender-bender-258964.jpg)
 
+#### Public Event: Next (2km)
+![](https://cdn.discordapp.com/attachments/750906124454330429/845958040674107422/Screenshot_2021-05-23-05-32-28_Original.jpg)
+
 #### Public Event: Momentous Momentum (time-attack)
 ![](https://pbs.twimg.com/media/E1vrpiNWEAQumq0.jpg:small)
 
