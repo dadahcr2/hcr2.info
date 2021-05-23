@@ -6,6 +6,7 @@
 
 ### Events & Previews
 #### Team Event: Fenderbender Friends
+![](https://cdn.discordapp.com/attachments/750874271022317678/845738536958558239/image0.png)
 
 ***jeep, mk2, sportscar, rotator, hotrod, sbike***  
 
