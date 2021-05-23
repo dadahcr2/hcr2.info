@@ -147,7 +147,7 @@ Canyon Champions, Division 1, Division 2, ... Division 7
 🇶 ***Do the team events themselves change?***  
 🇦 No. At this stage, team events remain as they always were (But you never know what the future may hold)  
 
-#### **Team Season Rewards**  
+#### Team Season Rewards  
 ![](https://cdn.discordapp.com/attachments/617353655468687390/841897325411827723/IMG_4050.jpg)  
 
 However, the promotions from Division IV needs to be 1200 and not 800 for the numbers to tie out. As follows:  
@@ -184,9 +184,10 @@ Relegate |  |  | 400↓↓ | 800↓↓ | 1900↓↓ |  |  |
 ###### [How to remove part of vehicles](https://youtu.be/tXbQgs6c_fI)
 [![](http://img.youtube.com/vi/tXbQgs6c_fI/0.jpg)](http://www.youtube.com/watch?v=tXbQgs6c_fI)
 ### Vehicles
-#### Parts required & costs
-![Parts upgrade reference chart](https://media.discordapp.net/attachments/617353655468687390/743407975623950346/image0.jpg)
-## ->HCR2 Parts Costs<-
+#### Parts required & costs  
+![Parts upgrade reference chart](https://media.discordapp.net/attachments/617353655468687390/743407975623950346/image0.jpg)  
+**HCR2 Parts Costs**  
+{: style="text-align: center;"}
 ![Part costs](https://media.discordapp.net/attachments/617353655468687390/743407893931622400/image0.jpg?width=402&height=744)
 #### Fuel duration
 ![Fuel](https://media.discordapp.net/attachments/617353655468687390/777544549416697876/image0.png?width=533&height=744)
