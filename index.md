@@ -331,15 +331,15 @@ Distance | Obstacle
 #### Two and four track cups
 I can remember the single track cups but not the others so I put together lists of the two and four track cups:
 
-**Two tracks**
-Glacier Cup
-Hill Climb Cup
-Uphill Cup
+**Two tracks**  
+Glacier Cup  
+Hill Climb Cup  
+Uphill Cup  
 
-**Four tracks**
-Dirty Rally
-Spring City
-Sunday Champ
+**Four tracks**  
+Dirty Rally  
+Spring City  
+Sunday Champ  
 
 #### Tracks by map type and distance
 This may be helpful in identifying team (and public) event tracks
