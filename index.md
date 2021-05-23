@@ -6,7 +6,6 @@
 
 ### Events & Previews
 #### Team Event: Fenderbender Friends
-![](https://memeguy.com/photos/images/get-your-jimmies-rustled-in-a-fender-bender-258964.jpg)
 
 ***jeep, mk2, sportscar, rotator, hotrod, sbike***  
 
@@ -18,25 +17,27 @@
 
 ![](https://cdn.discordapp.com/attachments/719181324610437190/845201323708121108/xyzzy1621582095690.png)
 
+![](https://memeguy.com/photos/images/get-your-jimmies-rustled-in-a-fender-bender-258964.jpg)
+
 #### Public Event: Momentous Momentum (time-attack)
 ![](https://pbs.twimg.com/media/E1vrpiNWEAQumq0.jpg:small)
 
-Downhill Trials:**Trial of Balance** - sbike AB coin start
-Spring City:**Whipclash** - sbike AB coin wing
-Dark Roads:**Visions of Victory** - diesel JS start wing
-Cup in the Woods:**Captain's Log** - sbike start tire AB/OT
-Sand in Swimsuit:**The Big Dunes** - Tank fuel OT thrust
-Countryside Cup:**Four-Wheel Park** - rally AB coin OT
-Dirty Rally:**Flipway** - rotator AB coin wing
-Bill's Circuit:**Hot Tarmac** - rally AB OT wing / sbike coin OT wing 
-Interstate Cup:**No Step on Snek** - rally AB coin OT
-Stormrider Cup:**Like a Hawk** - rotator AB coin wing
-Gloomvale Cup:**Twisted Trees** - sbike AB wheelie wing
+Downhill Trials:**Trial of Balance** - sbike AB coin start  
+Spring City:**Whipclash** - sbike AB coin wing  
+Dark Roads:**Visions of Victory** - diesel JS start wing  
+Cup in the Woods:**Captain's Log** - sbike start tire AB/OT  
+Sand in Swimsuit:**The Big Dunes** - Tank fuel OT thrust  
+Countryside Cup:**Four-Wheel Park** - rally AB coin OT  
+Dirty Rally:**Flipway** - rotator AB coin wing  
+Bill's Circuit:**Hot Tarmac** - rally AB OT wing / sbike coin OT wing   
+Interstate Cup:**No Step on Snek** - rally AB coin OT  
+Stormrider Cup:**Like a Hawk** - rotator AB coin wing  
+Gloomvale Cup:**Twisted Trees** - sbike AB wheelie wing  
 
 ![](https://25.media.tumblr.com/30fc8f504047a0180e51b3372ef8a830/tumblr_mght2pJ3e31qdlh1io1_r1_400.gif )
 
 **Previous public event tracks** 
-- 20210512  **Dark Side of the HIll (Moon Long Jump)** Moon jump 1-6- 20210505 **Anger Management (Breaking)** Demolition 1-6
+- 20210512  **Dark Side of the HIll (Moon Long Jump)** Moon jump 1-6- 20210505 **Anger Management (Breaking)** Demolition 1-6  
 - 20210428 **Jump like you mean it (Multi Jump)** Multi jump 1-10
 - 20210421 **Tractor Wars (Tractor)** Beach Boys, Bumpy Ride, No Skidding, Hot Tarmac, SeeSaw Road, Showgrounds, Silo Showdown, The Dip, The Dunes, Trial of Fall 
 - **Counterbalance Crisis (Wheelie)** Wheelie 1-9: Country, Beach, Mine, Underwater, Winter, Bog, Mountain, Desert, Glacier 
@@ -72,8 +73,9 @@ Gloomvale Cup:**Twisted Trees** - sbike AB wheelie wing
 - [Old events - from 2019](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2/eventtips#wiki_event_tips_.28hcr2.29)
 
 #### Public Event Setups
+
 Event | Suggested Vehicle and Parts
--- | --
+:-- | :--
 Breaking | Rally HeavyWeight WinterTires AfterBurner
 Cargo | Superbike/Monster Wings AfterBurner CoinBoost
 Long Kick | Rally AirControl JumpShocks Thrusters
@@ -88,6 +90,7 @@ Nian Chase |  Rally WinterTires Wings CoinBoost
 Wheelie  | Buggy Wings Wheelieboost Coinboost
 
 #### Game Update: Leagues
+
 ![](https://media.discordapp.net/attachments/477025765100093440/836942746483687474/Leagues-update-now-fb.jpg?width=396&height=495)
 - Eight divisions with an incentive to be in the top division
 - Will have a monthly "season", with resetting at the end of the month
