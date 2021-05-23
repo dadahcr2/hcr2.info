@@ -144,8 +144,8 @@ Relegate | 50↓  | 200↓  | 400↓  | 800↓  | 1900↓  | 4400↓  | 3000↓ 
 Relegate |  |  | 400↓↓ | 800↓↓ | 1900↓↓ |  |  | 
 
 ###  Wikis & general tutorials
-- [Official wiki](http://wiki.hcr2.info)
-- [Original reddit wiki](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2)  
+- **[Official wiki](http://wiki.hcr2.info)**
+- **[Original reddit wiki](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2)**
 
 #### [Getting started tips](http://tips.hcr2.info)  
 
