@@ -10,11 +10,12 @@
 
 ***jeep, mk2, sportscar, rotator, hotrod, sbike***  
 
-1. timed, Tide Waves, Finger Travels 1  - superbike
-2. timed, rotator PE track hang on? - rotator
+1. timed, Tide Waves, Finger Travels 1, 10k=13s - superbike 
+2. timed, rotator PE track hang on?, 10k=15s - rotator
 3. multijump - jeep
-4. cargo, Lost in Transmission, Dirty Rally 3  - hotrod
-5. timed, Four-Wheel Park Countryside Cup 2  - mk2 / sportscar
+4. cargo, Lost in Transmission, Dirty Rally 3, 10k=10s  - hotrod
+5. timed, Four-Wheel Park Countryside Cup 2, 10k=15s  - mk2 / sportscar
+![](https://cdn.discordapp.com/attachments/750874271022317678/845739113280962640/image0.png)
 
 ![](https://cdn.discordapp.com/attachments/719181324610437190/845201323708121108/xyzzy1621582095690.png)
 
