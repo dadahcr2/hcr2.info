@@ -1,4 +1,3 @@
-***
 
 * TOC  
 {:toc}  
@@ -18,30 +17,6 @@
 5. timed, Four-Wheel Park Countryside Cup 2  - mk2 / sportscar
 
 ![](https://cdn.discordapp.com/attachments/719181324610437190/845201323708121108/xyzzy1621582095690.png)
-#### Team event: The Last Neckbender
-![](https://media.discordapp.net/attachments/750874271022317678/842788778799923230/image0.jpg?width=500&height=402)
-
- ***bus buggy rally racingtruck moonlander***
-
-**Track 1:** Rocky Track,  _Time attack, no air, 10k=14s_ - RacingTruck AB AC
-**Track 2:** 2km Moon Adventure,  _Time attack, 10k=80s_ - Rally WI Fuel
-**Track 3:**  _Target, 10k=1300_ - Bus Wi Th
-**Track 4:**  Beach Adventure ,  _Distance, 10k=2000m_ - Buggy kangaroo
-
-![](https://cdn.discordapp.com/attachments/719181324610437190/842609742227832873/xyzzy1620964215264.png)
-
-#### Team event: Clash of Cars
-![](https://cdn.discordapp.com/attachments/750874271022317678/840240566616064070/image0.png)
-
-***motocross monster chopper hotrod supercar***
-
-**Track 1:** Long Jump - In City,  _Long jump, 10k=170m_
-**Track 2:** Distance - in Mountain Uphill,  _Hill climb, 10k=850m_
-**Track 3:** Dark Roads - Hills Ahead,  _Time attack, 10k=10s_
-**Track 4:** Wheeeeeeeelie - Wheeeeeeelie,  _Wheelie, 10k=700m_
-
-![](https://cdn.discordapp.com/attachments/719181324610437190/840204979616481290/xyzzy1620390874364.png)
-
 
 #### Public Event: Momentous Momentum (time-attack)
 ![](https://pbs.twimg.com/media/E1vrpiNWEAQumq0.jpg:small)
