@@ -24,32 +24,17 @@
 #### Public Event: The Fast and the Last (2km)
 ![](https://cdn.discordapp.com/attachments/750906124454330429/845958040674107422/Screenshot_2021-05-23-05-32-28_Original.jpg)
 
-#### Public Event: Momentous Momentum (time-attack)
-![](https://pbs.twimg.com/media/E1vrpiNWEAQumq0.jpg:small)
-
-Downhill Trials:**Trial of Balance** - sbike AB coin start  
-Spring City:**Whipclash** - sbike AB coin wing  
-Dark Roads:**Visions of Victory** - diesel JS start wing  
-Cup in the Woods:**Captain's Log** - sbike start tire AB/OT  
-Sand in Swimsuit:**The Big Dunes** - Tank fuel OT thrust  
-Countryside Cup:**Four-Wheel Park** - rally AB coin OT  
-Dirty Rally:**Flipway** - rotator AB coin wing  
-Bill's Circuit:**Hot Tarmac** - rally AB OT wing / sbike coin OT wing   
-Interstate Cup:**No Step on Snek** - rally AB coin OT  
-Stormrider Cup:**Like a Hawk** - rotator AB coin wing  
-Gloomvale Cup:**Twisted Trees** - sbike AB wheelie wing  
-
-![](https://25.media.tumblr.com/30fc8f504047a0180e51b3372ef8a830/tumblr_mght2pJ3e31qdlh1io1_r1_400.gif )
-
 **Previous public event tracks** 
-- 20210512  **Dark Side of the HIll (Moon Long Jump)** Moon jump 1-6- 20210505 **Anger Management (Breaking)** Demolition 1-6  
-- 20210428 **Jump like you mean it (Multi Jump)** Multi jump 1-10
+- 20210519 **Momentous Momentum (timed)** Trial of Balance, Whipclash, Visions of Victory, Captain's Log, The Big Dunes, Four-Wheel Park, Flipway, Hot Tarmac, No Step on Snek, Like a Hawk, Twisted Trees
+- 20210512  **Dark Side of the HIll (Moon Long Jump)** Moon jump 1-6  
+- 20210505 **Anger Management (Breaking)** Demolition 1-6  
+- 20210428 **Jump like you mean it (Multi Jump)** Multi jump 1-10  
 - 20210421 **Tractor Wars (Tractor)** Beach Boys, Bumpy Ride, No Skidding, Hot Tarmac, SeeSaw Road, Showgrounds, Silo Showdown, The Dip, The Dunes, Trial of Fall 
 - **Counterbalance Crisis (Wheelie)** Wheelie 1-9: Country, Beach, Mine, Underwater, Winter, Bog, Mountain, Desert, Glacier 
 - **Cheese Wheel (Moon Stunts)** Moon Jumps, Lunar Base, Rocket Jump, Over the Base, Depths of the Moon, Antenna Field, Tunnel Route, Two Passages, Moon Loops 
 - **Egg carting (cargo)** Muddy road, Happy miner Whipclash, Lost in transmission, The dip, The quarry, Smooth curves, Logs and rocks, Fury road, Spartan Racing, Barn ride
 - **Mono Wars 2 (monowheel)** Big Air, Happy Camper, Bill’s landing, Let it snow, The big dunes, Happy Miner,  Trial of Balance, Face Plant,  Nose Miner, Captain’s Log 
-- **Accelerating Allergies (Time-attack)** Muddy road, Circuit 9, Down the tube, Tired alligators, Coral quarrel, Take off, Trials of fall, The Quarry, Fast lane, Highs and lows -  *Superbike afterburner coinboost wings*
+- **Accelerating Allergies (Timed)** Muddy road, Circuit 9, Down the tube, Tired alligators, Coral quarrel, Take off, Trials of fall, The Quarry, Fast lane, Highs and lows -  *Superbike afterburner coinboost wings*
 - **Sky Rock Sonnet (Moon Long Jump)** Moon Jump 1-6
 - **Red Car'd (Long Kick)** Long Kick 1-8 
 - **Top Gear Bottom Gear (Uphill Climb)** Up’n’Up, Sky’s the Limit, Top of the World, Over the Top, Up, Up and Away, Mount Dizzy, To the Summit, King of the Hill, Climb It
@@ -59,21 +44,21 @@ Gloomvale Cup:**Twisted Trees** - sbike AB wheelie wing
 - **Pass on with Difficulty (Timed)** Moon Jumps, Over the Base, Antenna Field, Man in the Moon, Moon Maze, Rocket Jump, Depths of the Moon, Tunnel Route
 - **Winterful Life (Long Jump)** Forrest Jump, Jump in the Woods, Mine Jump, Mountain Jump, Steep Mountain Jump, Beach Jump, Bogwater Jump, Ski Jumping Hill, Glacier Jump, Underwater Jump , Countryside Jump, AirTime
 - **Vertical Limit (Wheelie)** Wheelie 1-9: Country, Beach, Mine, Underwater, Winter, Bog, Mountain, Desert, Glacier
-- **Drive Hard (Time-trial):** The Big Dunes, Four-Wheel Park, Flipway, Hot Tarmac, No Step on Snek, Like a Hawk, Trial of Balance, Whipclash, Visions of Victory, Captain's Log
+- **Drive Hard (Timed):** The Big Dunes, Four-Wheel Park, Flipway, Hot Tarmac, No Step on Snek, Like a Hawk, Trial of Balance, Whipclash, Visions of Victory, Captain's Log
 - **Sky Rock Samba (Moon stunts):** Moon Jumps, Lunar Base, Rocket Jump, Over the Base, Depths of the Moon, Antenna Field, Tunnel Route, Two Passages, Moon Loops
 - **Santa's Little Helper (Cargo):** Present panic, In a hurry,  Cargo express, Gifts in the air, Smooth ride, Let it snow, Slippery slope
 - **Shreddin' the Gnar (Flip):** Downhill, Castle Crash, Snow Tunnel, Ice Cavern, Down’n’Down, Snow Time
 - **Salt Water (Water):** 1-8
-- **Fan Favourites (Time-trial):** Captains log, The big dunes, Four wheel park, Flipway, Trial of balance
+- **Fan Favourites (Timed):** Captains log, The big dunes, Four wheel park, Flipway, Trial of balance
 - **Ground is Lava (Multi Jump):** 1-10
 - **Sticky wheels (No Airtime):** The great milenko, Echoside, Magnets, How do they work, Shore stone field, Smooth landings
 - **Moon Malarkey (Moon Jump):** 1-6
-- **Rotator Rampage (Time-trial):** Reverse, Double jump, Different approach, hold on, two islands 
+- **Rotator Rampage (Timed):** Reverse, Double jump, Different approach, hold on, two islands 
 - **Graveyard Grand Prix (Chase):** Zombie:  run, sprint, valley, canyon, walk
 - **Pumkinata (Pumpkin Smash):** 1-5
 - **Zompede (Chase):** Zombie: mountain, cliff, land, hill
-- **Hill Climber Wars (Time-trial):** The Quarry, Factory Settings, Let it Snow, Bridges & Stones, Fury Road, Bat Country, Bill's Landing, Smooth Curves, The Dip, Heat Club, No Skidding, Bottom Gear
-- **Time-Attack from Outer Space (Time-trial):** Moon Jumps, Lunar Base, Rocket Jump, Over the Base, Depths of the Moon, Antenna Field, Tunnel Route, Two Passages, Moon Loops, Maze in the Moon, Coins in the Moon, Moon Shine, Man in the Moon, Moon Maze, Fly me to the Moon, Flipping Moon, Moonlight Sonata
+- **Hill Climber Wars (Timed):** The Quarry, Factory Settings, Let it Snow, Bridges & Stones, Fury Road, Bat Country, Bill's Landing, Smooth Curves, The Dip, Heat Club, No Skidding, Bottom Gear
+- **Time-Attack from Outer Space (Timed):** Moon Jumps, Lunar Base, Rocket Jump, Over the Base, Depths of the Moon, Antenna Field, Tunnel Route, Two Passages, Moon Loops, Maze in the Moon, Coins in the Moon, Moon Shine, Man in the Moon, Moon Maze, Fly me to the Moon, Flipping Moon, Moonlight Sonata
 - **Hill-arious (Uphill):** 1-5
 - [Old events - from 2019](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2/eventtips#wiki_event_tips_.28hcr2.29)
 
