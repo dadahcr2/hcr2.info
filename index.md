@@ -29,8 +29,8 @@
 Timed first 2 km of adventure tracks
 - Beach
 - City
-- Desert
 - Forest
+- Desert
 - Bog
 
 **Previous public event tracks** 
