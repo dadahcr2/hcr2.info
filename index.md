@@ -29,7 +29,9 @@
 Timed first 2 km of adventure tracks
 - Beach
 - City
-- etc.
+- Desert
+- Forest
+- Bog
 
 **Previous public event tracks** 
 - 20210519 **Momentous Momentum (timed)** Trial of Balance, Whipclash, Visions of Victory, Captain's Log, The Big Dunes, Four-Wheel Park, Flipway, Hot Tarmac, No Step on Snek, Like a Hawk, Twisted Trees
