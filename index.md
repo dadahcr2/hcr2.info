@@ -24,7 +24,7 @@
 #### Public Event: The Fast and the Last (2km)
 ![](https://cdn.discordapp.com/attachments/750906124454330429/845958040674107422/Screenshot_2021-05-23-05-32-28_Original.jpg)
 
-***diesel rally sbike supercar**
+***diesel rally sbike supercar***
 
 Timed first 2 km of adventure tracks
 - Beach
