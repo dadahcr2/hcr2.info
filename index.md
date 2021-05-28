@@ -29,6 +29,8 @@
 Timed first 2 km of adventure tracks
 
 **2km PE Order and Best Setups**
+![](![CB](https://cdn.discordapp.com/attachments/806343355264401478/847716471358619660/image.png)
+<!--
 1. **Beach** 54s/45s   
 	![Rally](https://media.discordapp.net/attachments/834726978594275369/834728996029071370/icon-vehicle-rally1.png?width=40&height=25)	![Wi](https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png?width=25&height=25)	![LB](https://media.discordapp.net/attachments/831974892538560523/831975078291046419/landing-boost.png?width=25&height=25)	![Fuel](https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png?width=25&height=25)  
 	![Diesel](https://media.discordapp.net/attachments/834726729264267284/834728231113719808/Super_Diesel.png?width=40&height=25)	![Wi](https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png?width=25&height=25)	![JS](https://media.discordapp.net/attachments/831974892538560523/831975065960448051/jump-shock-icon.png?width=25&height=25)	![Fuel](https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png?width=25&height=25)
@@ -44,7 +46,7 @@ Timed first 2 km of adventure tracks
 When in doubt
 ![Rally](https://media.discordapp.net/attachments/834726978594275369/834728996029071370/icon-vehicle-rally1.png?width=40&height=25)	![Wi](https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png?width=25&height=25)	![AB](https://media.discordapp.net/attachments/831974892538560523/831975036528623677/afterburner.png?width=25&height=25)	![Fuel](https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png?width=25&height=25)   
 and remove hood at start
-
+-->
 **Previous public event tracks** 
 - 20210519 **Momentous Momentum (timed)** Trial of Balance, Whipclash, Visions of Victory, Captain's Log, The Big Dunes, Four-Wheel Park, Flipway, Hot Tarmac, No Step on Snek, Like a Hawk, Twisted Trees
 - 20210512  **Dark Side of the HIll (Moon Long Jump)** Moon jump 1-6  
