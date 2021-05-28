@@ -138,7 +138,7 @@ Canyon Champions, Division 1, Division 2, ... Division 7
 🇦 No. At this stage, team events remain as they always were (But you never know what the future may hold)  
 
 #### Team Season Rewards  
-![](https://cdn.discordapp.com/attachments/617353655468687390/841897325411827723/IMG_4050.jpg)  
+![](https://cdn.discordapp.com/attachments/617353655468687390/847676629667938304/image0.png)  
 
 However, the promotions from Division IV needs to be 1200 and not 800 for the numbers to tie out. As follows:  
 
