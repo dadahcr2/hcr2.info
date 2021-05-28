@@ -87,6 +87,7 @@ and remove hood at start
 
 Event | Suggested Vehicle and Parts
 :-- | :--
+2km | Rally Wings Afterburner Fuel
 Breaking | Rally HeavyWeight WinterTires AfterBurner
 Cargo | Superbike/Monster Wings AfterBurner CoinBoost
 Long Kick | Rally AirControl JumpShocks Thrusters
