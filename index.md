@@ -11,8 +11,8 @@
 
 1. Time Attack in - HCR1,  _Time attack, 10k=15s_  - ![rally]/![tractor]?
 2. Distance in Water, _Distance, 10k=900m_  - ![Snowmobile]
-3. Loooooong - Jump, _Long jump, 10k=180m_  - ![diesel]/![rally]
-4. One of the usual - Breaking Maps, _Time attack, breaking, 10k=7s_ -  ![diesel]/![tractor]?
+3. Loooooong - Jump, _Long jump, 10k=180m_  - ![diesel]
+4. One of the usual - Breaking Maps, _Time attack, breaking, 10k=7s_ -  ![rally]/![tractor]?
 
 ![](https://cdn.discordapp.com/attachments/719181324610437190/847726563389734922/xyzzy1622184159419.png)  
 
