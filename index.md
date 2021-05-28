@@ -521,11 +521,11 @@ We are an open team, so no password.  If there is an spot available and the belo
 [Monster]: https://media.discordapp.net/attachments/834726650137804810/834727920785555456/Monster.png   
 {: height="15px" width="24px"} 
 [Rotator]: https://media.discordapp.net/attachments/834726692819566592/834728098544746526/Rotator.png   
-{: height="15px" width="24px"} 
+{: height="15px" width="24px"}  
 [Diesel]: https://media.discordapp.net/attachments/834726729264267284/834728231113719808/Super_Diesel.png   
-{: height="15px" width="24px"} 
+{: height="15px" width="24px"}  
 [Chopper]: https://media.discordapp.net/attachments/834726765099876422/834728330199695371/Chopper.png   
-{: height="15px" width="24px"} 
+{: height="15px" width="24px"}  
 [Tank]: https://media.discordapp.net/attachments/834726817856356352/834728674720481290/Mini_Tank.png   
 {: height="15px" width="24px"} 
 [Snowmobile]: https://media.discordapp.net/attachments/834726868111589406/834728755783139338/Snowmobile.png   
