@@ -29,7 +29,8 @@
 Timed first 2 km of adventure tracks
 
 **2km PE Order and Best Setups**  
-![](![CB](https://cdn.discordapp.com/attachments/806343355264401478/847716471358619660/image.png)  
+
+![](https://cdn.discordapp.com/attachments/806343355264401478/847716471358619660/image.png)  
 <!--
 1. **Beach** 54s/45s   
 	![Rally](https://media.discordapp.net/attachments/834726978594275369/834728996029071370/icon-vehicle-rally1.png?width=40&height=25)	![Wi](https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png?width=25&height=25)	![LB](https://media.discordapp.net/attachments/831974892538560523/831975078291046419/landing-boost.png?width=25&height=25)	![Fuel](https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png?width=25&height=25)  
