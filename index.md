@@ -5,6 +5,9 @@
 ***
 
 ### Events & Previews
+#### Team Event: Preview
+![](https://cdn.discordapp.com/attachments/719181324610437190/847726563389734922/xyzzy1622184159419.png)  
+
 #### Team Event: Fenderbender Friends
 ![](https://cdn.discordapp.com/attachments/750874271022317678/845738536958558239/image0.png)
 
