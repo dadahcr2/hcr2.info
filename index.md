@@ -458,50 +458,50 @@ We are an open team, so no password.  If there is an spot available and the belo
 
 	![](https://cdn.discordapp.com/attachments/616461538978693141/739209195382898837/image0.jpg)
 
-[AB]: https://media.discordapp.net/attachments/831974892538560523/831975036528623677/afterburner.png?width=15&height=15  
-[AC]: https://media.discordapp.net/attachments/831974892538560523/831975039737004092/aircontrol.png?width=15&height=15  
+[AB]: https://media.discordapp.net/attachments/831974892538560523/831975036528623677/afterburner.png?width=20&height=20  
+[AC]: https://media.discordapp.net/attachments/831974892538560523/831975039737004092/aircontrol.png?width=20&height=20  
 
 
-[Br]: https://media.discordapp.net/attachments/833731111031930920/833731257933758505/item_ai.png?width=15&height=15  
+[Br]: https://media.discordapp.net/attachments/833731111031930920/833731257933758505/item_ai.png?width=20&height=20  
 
 
-[CB]: https://media.discordapp.net/attachments/831974892538560523/831975034289127504/coinboost.png?width=15&height=15  
+[CB]: https://media.discordapp.net/attachments/831974892538560523/831975034289127504/coinboost.png?width=20&height=20  
 
-[SB]: https://media.discordapp.net/attachments/831974892538560523/831975090920226866/rocket.png?width=15&height=15  
-[Fuel]: https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png?width=15&height=15  
-[DF]: https://media.discordapp.net/attachments/833731111031930920/833731332370464859/item_formula_downforce.png?width=15&height=15  
-[Dr]: https://media.discordapp.net/attachments/833731111031930920/833731571865485392/item_truckairdrag.png?width=15&height=15  
-[Fume]: https://media.discordapp.net/attachments/831974892538560523/831975056539123742/fumeboost.png?width=15&height=15  
-[JS]: https://media.discordapp.net/attachments/831974892538560523/831975065960448051/jump-shock-icon.png?width=15&height=15  
-[LB]: https://media.discordapp.net/attachments/831974892538560523/831975078291046419/landing-boost.png?width=15&height=15  
-[Ma]: https://media.discordapp.net/attachments/831974892538560523/831975081973514280/magnet_coins.png?width=15&height=15  
-[OT]: https://media.discordapp.net/attachments/831974892538560523/831975046171066388/exhaust_yellow.png?width=15&height=15  
-[RC]: https://media.discordapp.net/attachments/831974892538560523/831975142129270794/roll-cage-tractor.png?width=15&height=15  
-[SW]: https://media.discordapp.net/attachments/833731111031930920/833731477195849768/item_snowmobile_skiwax.png?width=15&height=15  
-[Th]: https://media.discordapp.net/attachments/831974892538560523/831975163036696626/thruster_icon.png?width=15&height=15  
-[WB]: https://media.discordapp.net/attachments/831974892538560523/831975167890554890/topspeed.png?width=15&height=15  
-[Wi]: https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png?width=15&height=15  
-[WT]: https://media.discordapp.net/attachments/831974892538560523/831975152630890586/snow-chain-icon.png?width=15&height=15  
+[SB]: https://media.discordapp.net/attachments/831974892538560523/831975090920226866/rocket.png?width=20&height=20  
+[Fuel]: https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png?width=20&height=20  
+[DF]: https://media.discordapp.net/attachments/833731111031930920/833731332370464859/item_formula_downforce.png?width=20&height=20  
+[Dr]: https://media.discordapp.net/attachments/833731111031930920/833731571865485392/item_truckairdrag.png?width=20&height=20  
+[Fume]: https://media.discordapp.net/attachments/831974892538560523/831975056539123742/fumeboost.png?width=20&height=20  
+[JS]: https://media.discordapp.net/attachments/831974892538560523/831975065960448051/jump-shock-icon.png?width=20&height=20  
+[LB]: https://media.discordapp.net/attachments/831974892538560523/831975078291046419/landing-boost.png?width=20&height=20  
+[Ma]: https://media.discordapp.net/attachments/831974892538560523/831975081973514280/magnet_coins.png?width=20&height=20  
+[OT]: https://media.discordapp.net/attachments/831974892538560523/831975046171066388/exhaust_yellow.png?width=20&height=20  
+[RC]: https://media.discordapp.net/attachments/831974892538560523/831975142129270794/roll-cage-tractor.png?width=20&height=20  
+[SW]: https://media.discordapp.net/attachments/833731111031930920/833731477195849768/item_snowmobile_skiwax.png?width=20&height=20  
+[Th]: https://media.discordapp.net/attachments/831974892538560523/831975163036696626/thruster_icon.png?width=20&height=20  
+[WB]: https://media.discordapp.net/attachments/831974892538560523/831975167890554890/topspeed.png?width=20&height=20  
+[Wi]: https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png?width=20&height=20  
+[WT]: https://media.discordapp.net/attachments/831974892538560523/831975152630890586/snow-chain-icon.png?width=20&height=20  
 
-[Jeep]: https://media.discordapp.net/attachments/834726148663017472/834726944284344330/Jeep.png?width=24&height=15    
-[Scooter]: https://media.discordapp.net/attachments/834726193956651018/834727049063039006/Scooter.png?width=24&height=15  
-[Bus]: https://media.discordapp.net/attachments/834726213527797772/834727171704094751/Bus.png?width=24&height=15  
-[Mk2]: https://media.discordapp.net/attachments/834726288353656852/834727358388109322/Superjeep.png?width=24&height=15  
-[Tractor]: https://media.discordapp.net/attachments/833681748688633877/837807599696609320/icon-vehicle-tractor.png?width=24&height=15  
-[Moto]: https://media.discordapp.net/attachments/834726546454740992/834727591646461974/Motocross.png?width=24&height=15  
-[Buggy]: https://media.discordapp.net/attachments/834726573885095996/834727694162985000/Buggy.png?width=24&height=15  
-[Sportscar]: https://media.discordapp.net/attachments/834726602083401739/834727813651234846/Sportscar.png?width=24&height=15  
-[Monster]: https://media.discordapp.net/attachments/834726650137804810/834727920785555456/Monster.png?width=24&height=15  
-[Rotator]: https://media.discordapp.net/attachments/834726692819566592/834728098544746526/Rotator.png?width=24&height=15  
-[Diesel]: https://media.discordapp.net/attachments/834726729264267284/834728231113719808/Super_Diesel.png?width=24&height=15  
-[Chopper]: https://media.discordapp.net/attachments/834726765099876422/834728330199695371/Chopper.png?width=24&height=15  
-[Tank]: https://media.discordapp.net/attachments/834726817856356352/834728674720481290/Mini_Tank.png?width=24&height=15  
-[Snowmobile]: https://media.discordapp.net/attachments/834726868111589406/834728755783139338/Snowmobile.png?width=24&height=15  
-[Mono]: https://media.discordapp.net/attachments/834726907978711081/834728886881091604/Monowheel.png?width=24&height=15  
-[Rally]: https://media.discordapp.net/attachments/834726978594275369/834728996029071370/icon-vehicle-rally1.png?width=24&height=15  
-[Formula]: https://media.discordapp.net/attachments/834727004082667580/834729204683112458/Formula.png?width=24&height=15  
-[RT]: https://media.discordapp.net/attachments/834727062438674452/834729303047929886/RacingTruck.png?width=24&height=15  
-[Hotrod]: https://media.discordapp.net/attachments/834727111440859146/834729400514773012/Hotrod.png?width=24&height=15  
-[Sbike]: https://media.discordapp.net/attachments/834727162984005632/834729620930560050/800px-Superbike.png?width=24&height=15  
-[Supercar]: https://media.discordapp.net/attachments/833681748688633877/837807347992363058/icon-vehicle-lambo.png?width=24&height=15  
-[Moonlander]: https://media.discordapp.net/attachments/834727267049013248/834730007943315476/Moonlander.png?width=24&height=15  
+[Jeep]: https://media.discordapp.net/attachments/834726148663017472/834726944284344330/Jeep.png?width=32&height=20    
+[Scooter]: https://media.discordapp.net/attachments/834726193956651018/834727049063039006/Scooter.png?width=32&height=20  
+[Bus]: https://media.discordapp.net/attachments/834726213527797772/834727171704094751/Bus.png?width=32&height=20  
+[Mk2]: https://media.discordapp.net/attachments/834726288353656852/834727358388109322/Superjeep.png?width=32&height=20  
+[Tractor]: https://media.discordapp.net/attachments/833681748688633877/837807599696609320/icon-vehicle-tractor.png?width=32&height=20  
+[Moto]: https://media.discordapp.net/attachments/834726546454740992/834727591646461974/Motocross.png?width=32&height=20  
+[Buggy]: https://media.discordapp.net/attachments/834726573885095996/834727694162985000/Buggy.png?width=32&height=20  
+[Sportscar]: https://media.discordapp.net/attachments/834726602083401739/834727813651234846/Sportscar.png?width=32&height=20  
+[Monster]: https://media.discordapp.net/attachments/834726650137804810/834727920785555456/Monster.png?width=32&height=20  
+[Rotator]: https://media.discordapp.net/attachments/834726692819566592/834728098544746526/Rotator.png?width=32&height=20  
+[Diesel]: https://media.discordapp.net/attachments/834726729264267284/834728231113719808/Super_Diesel.png?width=32&height=20  
+[Chopper]: https://media.discordapp.net/attachments/834726765099876422/834728330199695371/Chopper.png?width=32&height=20  
+[Tank]: https://media.discordapp.net/attachments/834726817856356352/834728674720481290/Mini_Tank.png?width=32&height=20  
+[Snowmobile]: https://media.discordapp.net/attachments/834726868111589406/834728755783139338/Snowmobile.png?width=32&height=20  
+[Mono]: https://media.discordapp.net/attachments/834726907978711081/834728886881091604/Monowheel.png?width=32&height=20  
+[Rally]: https://media.discordapp.net/attachments/834726978594275369/834728996029071370/icon-vehicle-rally1.png?width=32&height=20  
+[Formula]: https://media.discordapp.net/attachments/834727004082667580/834729204683112458/Formula.png?width=32&height=20  
+[RT]: https://media.discordapp.net/attachments/834727062438674452/834729303047929886/RacingTruck.png?width=32&height=20  
+[Hotrod]: https://media.discordapp.net/attachments/834727111440859146/834729400514773012/Hotrod.png?width=32&height=20  
+[Sbike]: https://media.discordapp.net/attachments/834727162984005632/834729620930560050/800px-Superbike.png?width=32&height=20  
+[Supercar]: https://media.discordapp.net/attachments/833681748688633877/837807347992363058/icon-vehicle-lambo.png?width=32&height=20  
+[Moonlander]: https://media.discordapp.net/attachments/834727267049013248/834730007943315476/Moonlander.png?width=32&height=20   
