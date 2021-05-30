@@ -16,6 +16,9 @@
 
 ![](https://cdn.discordapp.com/attachments/750874271022317678/847832333426884610/7C673FD6-8DBD-43C5-AAD9-A587E374F5DF.png)  
 
+### Public Event: Next (Moon Stunts)
+
+![](https://cdn.discordapp.com/attachments/750906124454330429/848659875100753930/image0.png)
 
 ### Public Event: The Fast and the Last (2km)
 ![](https://pbs.twimg.com/media/E2Tl0rVWEAAjpoa.jpg:small)
