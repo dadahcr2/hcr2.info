@@ -15,25 +15,8 @@
 3. Loooooong - Jump, _Long jump, 10k=180m_  - ![diesel]
 4. One of the usual - Breaking Maps, _Time attack, breaking, 10k=7s_ -  ![rally]/![tractor]?
 
-![](https://cdn.discordapp.com/attachments/719181324610437190/847726563389734922/xyzzy1622184159419.png)  
+![](https://cdn.discordapp.com/attachments/750874271022317678/847832333426884610/7C673FD6-8DBD-43C5-AAD9-A587E374F5DF.png)  
 
-
-
-### Team Event: Fenderbender Friends
-![](https://cdn.discordapp.com/attachments/750874271022317678/845738536958558239/image0.png)
-
-***jeep, mk2, sportscar, rotator, hotrod, sbike***  
-
-1. timed, Tide Waves, Finger Travels 1, 10k=13s - superbike 
-2. timed, rotator PE track hang on?, 10k=15s - rotator
-3. multijump - jeep
-4. cargo, Lost in Transmission, Dirty Rally 3, 10k=10s  - hotrod
-5. timed, Four-Wheel Park Countryside Cup 2, 10k=15s  - mk2 / sportscar
-![](https://cdn.discordapp.com/attachments/806343355264401478/845752953460883456/0524F559-C593-41A0-A724-A6C3205D0CE9.png)
-
-![](https://cdn.discordapp.com/attachments/719181324610437190/845201323708121108/xyzzy1621582095690.png)
-
-![](https://memeguy.com/photos/images/get-your-jimmies-rustled-in-a-fender-bender-258964.jpg)
 
 ### Public Event: The Fast and the Last (2km)
 ![](https://pbs.twimg.com/media/E2Tl0rVWEAAjpoa.jpg:small)
