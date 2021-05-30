@@ -6,7 +6,6 @@
 
 ## Events & Previews
 ### Team Event: Make the Dream Work
-![](https://memecreator.org/static/images/memes/5268440.jpg)
 
 ***scooter tractor diesel snowmobile rally***
 
