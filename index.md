@@ -137,19 +137,6 @@ Canyon Champions, Division 1, Division 2, ... Division 7
 ### Team Season Rewards  
 ![](https://cdn.discordapp.com/attachments/617353655468687390/847676629667938304/image0.png)  
 
-However, the promotions from Division IV needs to be 1200 and not 800 for the numbers to tie out. As follows:  
-
-Division | CC | I | II | III | IV | V | VI | VII
---: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
-Teams | 100 | 500 | 2000 | 4000 | 8000 | 16000 | 32000 | Balance
-Coins | 1000000 → 1500000 | 800000 → 1000000 | 600000 → 800000 | 500000 → 600000 | 400000 → 500000 | 200000 → 400000 | 100000 → 200000 | 50000 → 100000
-Gems | 200→400 | 150→200 | 100→150 | 75→100 | 50→75 | 25→50 | 15→25 | 5→15
-Promote  |  |  |  |  |  |  |  | 1000↑↑↑
-Promote  |  |  |  |  | 400↑↑ | 800↑↑ | 1400↑↑ | 1000↑↑
-Promote  |  | 50↑ | 200↑ | 400↑ | ~~400~~ **800** | 1400↑ | 2900↑ | 1000↑
-Relegate | 50↓  | 200↓  | 400↓  | 800↓  | 1900↓  | 4400↓  | 3000↓  | 
-Relegate |  |  | 400↓↓ | 800↓↓ | 1900↓↓ |  |  | 
-
 ##  Wikis & general tutorials
 - **[Official wiki](http://wiki.hcr2.info)**
 - **[Original reddit wiki](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2)**
