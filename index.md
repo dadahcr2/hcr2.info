@@ -20,7 +20,7 @@
 
 ![](https://cdn.discordapp.com/attachments/750906124454330429/848659875100753930/image0.png)
 
-Recommended: ![buggy] ![Magnet] ![AC] ![WT]
+Recommended: ![buggy] ![Ma] ![AC] ![WT]
 
 ### Public Event: The Fast and the Last (2km)
 ![](https://pbs.twimg.com/media/E2Tl0rVWEAAjpoa.jpg:small)
