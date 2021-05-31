@@ -15,7 +15,7 @@
 
 ![](https://cdn.discordapp.com/attachments/750906124454330429/848659875100753930/image0.png)
 
-Recommended: ![buggy] ![Ma] ![AC] ![WT]
+![Recommended: ![buggy] ![Ma] ![AC] ![WT]](https://cdn.discordapp.com/attachments/695743667087998996/848728745762357278/image0.png)
 
 ### Public Event: The Fast and the Last (2km)
 ![](https://pbs.twimg.com/media/E2Tl0rVWEAAjpoa.jpg:small)
