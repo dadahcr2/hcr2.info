@@ -7,12 +7,7 @@
 ## Events & Previews
 ### Team Event: Make the Dream Work
 
-***scooter tractor diesel snowmobile rally***
-
-1. Time Attack in - HCR1,  _Time attack, 10k=15s_  - ![rally]/![tractor]?
-2. Distance in Water, _Distance, 10k=900m_  - ![Snowmobile]
-3. Loooooong - Jump, _Long jump, 10k=180m_  - ![diesel]
-4. One of the usual - Breaking Maps, _Time attack, breaking, 10k=7s_ -  ![rally]/![tractor]?
+***scooter tractor diesel snowmobile rally***  
 
 ![](https://cdn.discordapp.com/attachments/750874271022317678/847832333426884610/7C673FD6-8DBD-43C5-AAD9-A587E374F5DF.png)  
 
