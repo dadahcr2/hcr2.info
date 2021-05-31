@@ -20,6 +20,8 @@
 
 ![](https://cdn.discordapp.com/attachments/750906124454330429/848659875100753930/image0.png)
 
+Recommended: ![buggy] ![Magnet] ![AC] ![WT]
+
 ### Public Event: The Fast and the Last (2km)
 ![](https://pbs.twimg.com/media/E2Tl0rVWEAAjpoa.jpg:small)
 
@@ -27,8 +29,8 @@
 
 Timed first 2 km of adventure tracks
 
-
 **2km PE Order and Best Setups**
+
 1. **Beach** 54s/45s   
 	![Rally]	![Wi] ![LB] ![Fuel]  
 	![Diesel](https://media.discordapp.net/attachments/834726729264267284/834728231113719808/Super_Diesel.png?width=40&height=25)	![Wi] ![JS](https://media.discordapp.net/attachments/831974892538560523/831975065960448051/jump-shock-icon.png?width=25&height=25)	![Fuel]
