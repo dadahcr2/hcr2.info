@@ -385,8 +385,6 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 30-199 | 79-248 | 20000-104500 | 40-209 |  (68~90) |  (9~18) |  (6~9) | 10% (3)
 200 | 249+ | 105000 | 210 |  (68~90) |  (9~18) |  (6~9) | 10% (3)
 
-[🔝](#top)    
-{: style="text-align: center;"}  
 
 ## Daily checklist
 
