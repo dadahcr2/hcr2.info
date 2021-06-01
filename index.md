@@ -98,6 +98,8 @@ Nian Chase |  Rally WinterTires Wings CoinBoost
  Uphill Climb | RacingTruck Wings FumeBoost WheelieBoost
 Wheelie  | Buggy Wings Wheelieboost Coinboost
 
+[🔝](#top)    
+{: style="text-align: center;"}  
 ### Game Update: Leagues
 
 ![](https://media.discordapp.net/attachments/477025765100093440/836942746483687474/Leagues-update-now-fb.jpg?width=396&height=495)
@@ -137,6 +139,8 @@ Canyon Champions, Division 1, Division 2, ... Division 7
 ### Team Season Rewards  
 ![](https://cdn.discordapp.com/attachments/617353655468687390/847676629667938304/image0.png)  
 
+[🔝](#top)    
+{: style="text-align: center;"}  
 ##  Wikis & general tutorials
 - **[Official wiki](http://wiki.hcr2.info)**
 - **[Original reddit wiki](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2)**
@@ -157,6 +161,9 @@ Canyon Champions, Division 1, Division 2, ... Division 7
 [![Moonlander coin trick tutorial](http://img.youtube.com/vi/ATDNgvF0XhQ/0.jpg)](http://www.youtube.com/watch?v=ATDNgvF0XhQ)
 #### [How to remove part of vehicles](https://youtu.be/tXbQgs6c_fI)
 [![](http://img.youtube.com/vi/tXbQgs6c_fI/0.jpg)](http://www.youtube.com/watch?v=tXbQgs6c_fI)
+
+[🔝](#top)    
+{: style="text-align: center;"}  
 ## Vehicles
 ### Parts required & costs  
 ![Parts upgrade reference chart](https://media.discordapp.net/attachments/617353655468687390/743407975623950346/image0.jpg)  
@@ -220,6 +227,8 @@ Superbike | -
 Supercar | AirControl
 Moonlander | LandingBoost
 
+[🔝](#top)    
+{: style="text-align: center;"}  
 ## Adventures
 ![](https://media.discordapp.net/attachments/833681748688633877/835658597542133795/image4.png?width=496&height=496)
 ### Best map setups
@@ -279,6 +288,8 @@ Moonlander | Magnet WheelieBoost CoinBoost
 Where DF=DownForce, S=Suspension, SW=SkiWax
 (_Source: [PR]linus 10k runs_: https://youtu.be/0hLcQWIaLSg)
 
+[🔝](#top)    
+{: style="text-align: center;"}  
 ### Forest adventure obstacles
 ![Forest walk-through](https://media.discordapp.net/attachments/617353655468687390/733422128929439774/image0.png?width=557&height=992)
 ![](https://media.discordapp.net/attachments/617353655468687390/733422129181098055/image1.png?width=557&height=992)
@@ -289,6 +300,9 @@ Distance | Obstacle
 :-- | :--
 23 600 | Moat
 25 600 | Moat
+
+[🔝](#top)    
+{: style="text-align: center;"}  
 
 ### Desert valley obstacles
 
@@ -321,6 +335,8 @@ Distance | Obstacle
 20510 | Single-rope swing
 22650 | Easy to miss gas tank
 
+[🔝](#top)    
+{: style="text-align: center;"}  
 ## Cups
 ### Two and four track cups
 I can remember the single track cups but not the others so I put together lists of the two and four track cups:
@@ -356,6 +372,8 @@ Map Type | Tracks
 
 Note: Distances are within 1m or so
 
+[🔝](#top)    
+{: style="text-align: center;"}  
 ### Season Bonus Chest
 **Requires premium pass**
 
@@ -366,6 +384,9 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 20-29 | 69-78 | 15000-19500 | 30-39 |  (45~56) |  (6~12) | 33% (3~6) | 5% (3)
 30-199 | 79-248 | 20000-104500 | 40-209 |  (68~90) |  (9~18) |  (6~9) | 10% (3)
 200 | 249+ | 105000 | 210 |  (68~90) |  (9~18) |  (6~9) | 10% (3)
+
+[🔝](#top)    
+{: style="text-align: center;"}  
 
 ## Daily checklist
 
@@ -416,6 +437,10 @@ I highly recommend these:
 - Friendly Wars: <http://fw.hcr2.info>
 
 ![](https://media.discordapp.net/attachments/833681748688633877/835658599274905620/image9.jpg?width=791&height=991)
+
+[🔝](#top)    
+{: style="text-align: center;"}  
+
 ## Team philosophy
 We are an open team, so no password.  If there is an spot available and the below resonates with you, you are very welcome to join.
 
@@ -430,6 +455,9 @@ We are an open team, so no password.  If there is an spot available and the belo
 5. **Eat plenty fiber!!** 😀 
 
 	![](https://cdn.discordapp.com/attachments/616461538978693141/739209195382898837/image0.jpg)
+
+[🔝](#top)    
+{: style="text-align: center;"}  
 
 [Ka]: https://pngimg.com/uploads/kangaroo/kangaroo_PNG21.png 
 {: height="20px" width="20px"} 
