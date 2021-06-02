@@ -1,5 +1,6 @@
 
 # HCR2 REWARDS
+{: .no_toc}  
 
 * TOC  
 {:toc}
