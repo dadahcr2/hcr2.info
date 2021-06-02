@@ -17,7 +17,7 @@
 
 ![Recommended: ![buggy] ![Ma] ![AC] ![WT]](https://cdn.discordapp.com/attachments/695743667087998996/848728745762357278/image0.png)
 
-![**Previous public event tracks**](.\PrevPe.html)
+[**Previous public event tracks**](.\PrevPe.html)
 
 ### Public Event Setups
 
