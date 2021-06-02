@@ -31,7 +31,7 @@ Cargo | Superbike/Monster Wings AfterBurner CoinBoost
 Long Kick | Rally AirControl JumpShocks Thrusters
  Mono Wars | Monowheel Wings Thrusters Fuel
  Moon Long Jump | Bus Thrusters Wing Magnet/JumpShocks
-Moon Stunts | Buggy AirControl WinterTires Magnet
+Moon Stunts |![Buggy] ![AC] ![WT] ![Ma]
 Multi Jump | Diesel/Jeep Wings JumpShocks LandingBoost
 Nian Chase |  Rally WinterTires Wings CoinBoost
  Time-attack | Superbike Wings AfterBurner CoinBoost
