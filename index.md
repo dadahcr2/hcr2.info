@@ -60,7 +60,7 @@
 
 Event | Suggested Vehicle and Parts
 :-- | :--
-2km Adv. Maps | ![Rally] ![Fuel] ![AB] ![Wi]\![LB]
+2km Adv. Maps | ![Rally] ![Fuel] ![AB] ![Wi]/![LB]
 Breaking | Rally HeavyWeight WinterTires AfterBurner
 Cargo | Superbike/Monster Wings AfterBurner CoinBoost
 Long Kick | Rally AirControl JumpShocks Thrusters
