@@ -1,5 +1,4 @@
-# HCR2 TIPS
-{: .no_toc}  
+
 ![](https://cdn.discordapp.com/attachments/806343355264401478/820420574286577714/image0.png)
 
 * TOC  
