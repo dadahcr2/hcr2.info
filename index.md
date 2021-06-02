@@ -17,32 +17,8 @@
 
 ![Recommended: ![buggy] ![Ma] ![AC] ![WT]](https://cdn.discordapp.com/attachments/695743667087998996/848728745762357278/image0.png)
 
-### Public Event: The Fast and the Last (2km)
-![](https://pbs.twimg.com/media/E2Tl0rVWEAAjpoa.jpg:small)
-
-***diesel rally sbike supercar***
-
-Timed first 2 km of adventure tracks
-
-**2km PE Order and Best Setups**
-
-1. **Beach** 54s/45s   
-	![Rally]	![Wi] ![LB] ![Fuel]  
-	![Diesel](https://media.discordapp.net/attachments/834726729264267284/834728231113719808/Super_Diesel.png?width=40&height=25)	![Wi] ![JS](https://media.discordapp.net/attachments/831974892538560523/831975065960448051/jump-shock-icon.png?width=25&height=25)	![Fuel]
-3. **City** 52s   
-	![Rally] ![AB] ![LB] ![Fuel]  
-5. **Forest** 1:13  
-	![Rally]	![Ma](https://media.discordapp.net/attachments/831974892538560523/831975081973514280/magnet_coins.png?width=25&height=25)	![CB](https://media.discordapp.net/attachments/831974892538560523/831975034289127504/coinboost.png?width=25&height=25)	![Fuel]
-7. **Desert** 46s    
-	![Rally]: ![LB] ![AB] ![Fuel]
-9. **Bog** 1:34     
-	![Rally] ![Wi] ![AB] ![Fuel]
-
-When in doubt
-![Rally] ![Wi]	![AB]	![Fuel]  
-and remove hood at start
-
 **Previous public event tracks** 
+= 20210526 **The Fast and the Last (2km adv)** Beach, City Forest Desert Bog
 - 20210519 **Momentous Momentum (timed)** Trial of Balance, Whipclash, Visions of Victory, Captain's Log, The Big Dunes, Four-Wheel Park, Flipway, Hot Tarmac, No Step on Snek, Like a Hawk, Twisted Trees
 - 20210512  **Dark Side of the HIll (Moon Long Jump)** Moon jump 1-6  
 - 20210505 **Anger Management (Breaking)** Demolition 1-6  
@@ -84,7 +60,7 @@ and remove hood at start
 
 Event | Suggested Vehicle and Parts
 :-- | :--
-2km Adv. Maps | Rally Wings Afterburner Fuel
+2km Adv. Maps | ![Rally] ![Fuel] ![AB] ![Wi]\![LB]
 Breaking | Rally HeavyWeight WinterTires AfterBurner
 Cargo | Superbike/Monster Wings AfterBurner CoinBoost
 Long Kick | Rally AirControl JumpShocks Thrusters
