@@ -1,4 +1,5 @@
-# HCR2 TIPS 
+# HCR2 TIPS
+{: .no_toc}  
 
 * TOC  
 {:toc}
