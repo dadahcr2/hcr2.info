@@ -17,8 +17,8 @@
 
 ![Recommended: ![buggy] ![Ma] ![AC] ![WT]](https://cdn.discordapp.com/attachments/695743667087998996/848728745762357278/image0.png)
 
-**Previous public event tracks** 
-= 20210526 **The Fast and the Last (2km adv)** Beach, City Forest Desert Bog
+**Previous public event tracks**   
+= 20210526 **The Fast and the Last (2km adv)** Beach, City Forest Desert Bog  
 - 20210519 **Momentous Momentum (timed)** Trial of Balance, Whipclash, Visions of Victory, Captain's Log, The Big Dunes, Four-Wheel Park, Flipway, Hot Tarmac, No Step on Snek, Like a Hawk, Twisted Trees
 - 20210512  **Dark Side of the HIll (Moon Long Jump)** Moon jump 1-6  
 - 20210505 **Anger Management (Breaking)** Demolition 1-6  
