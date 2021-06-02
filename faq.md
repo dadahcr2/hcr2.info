@@ -1,4 +1,5 @@
-# HCR2 FAQ
+# HCR2 FAQ  
+{: .no_toc}  
 
 * TOC  
 {:toc}
