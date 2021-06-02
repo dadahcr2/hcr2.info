@@ -1,4 +1,4 @@
-# Best HCR2 Memes
+# HCR2 Memes
 
 ##  [⬇](#bottom)  
 {: style="text-align: center;"}  
