@@ -1,4 +1,4 @@
-# HCR2 Memes
+# HCR2 MEMES
 
 ##  [⬇](#bottom)  
 {: style="text-align: center;"}  
