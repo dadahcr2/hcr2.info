@@ -39,49 +39,11 @@ Nian Chase |  Rally WinterTires Wings CoinBoost
  Uphill Climb | RacingTruck Wings FumeBoost WheelieBoost
 Wheelie  | Buggy Wings Wheelieboost Coinboost
 
-[🔝](#top)    
-{: style="text-align: center;"}  
-### Game Update: Leagues
-
-![](https://media.discordapp.net/attachments/477025765100093440/836942746483687474/Leagues-update-now-fb.jpg?width=396&height=495)
-- Eight divisions with an incentive to be in the top division
-- Will have a monthly "season", with resetting at the end of the month
-- Points allocated to losing teams as well, so less active teams will fall behind
-- and more...
-
-Hear it direct from the **FPS Podcast**  
-[![](http://img.youtube.com/vi/aLFB3zMJ-pc/0.jpg)](http://www.youtube.com/watch?v=aLFB3zMJ-pc)
-
-**THE CLIMB CANYON LEAGUE FAQ** 
-🇶 ***What is the Climb Canyon League?***  
-🇦 The Climb Canyon League is a new way to experience HCR2 teams mode’s matchmaking and ranking system, that divides teams into division brackets.  
-🇶 ***How does it work?***  
-🇦 When the first season starts, the current leaderboard will be automatically divided into 8 separate divisions and each team will battle opposing teams inside their division bracket, vying to improve their division ranking at the end of a season.  
-🇶 ***How will the changeover work?***  
-🇦 A small matchmaking break will take place ~~at the end of April~~ to allow all existing matches to finish. During that time matchmaking will be disabled and you will not be able to search for any new matches. It will be re-enabled once leagues begin.  
-🇶 ***What are the rewards?***  
-🇦 Extra coins and gems - Possibly more in the future!  
-🇶 ***What are the division brackets?***  
-🇦 Top (left) to bottom:   
-Canyon Champions, Division 1, Division 2, ... Division 7  
-🇶 ***How long is a season?***  
-🇦 Each season will last one month (in sync with trophy road seasons) and matchmaking will be prevented 3 days before the end of the season (1 match length of 2 days + 1 more day for calculations) to ensure all matches are ended and counted fairly.  
-🇶 ***What happens at the end of a season?***  
-🇦 At the end of the season, based on their placement on the leaderboard, teams can move up or down by 1 or 2 divisions or they can stay in the same division. New teams start at the lowest division - This means the minimum time to rise from the bottom to the top is 4 months.  
-🇶 ***How does matchmaking work?***  
-🇦 Matchmaking happens the same as before, the leader/co-leader needs to start the matchmaking, and you will be matched against another team (within your division) currently seeking a match. Teams can only be matched against another team in their division and the same teams cannot be matched against each other more than once during the same season.  
-🇶 ***How is the scoring decided?***  
-🇦 The points for the leaderboard are accumulated based on the total team score during a match, so even a losing team will get points from playing the match, and actively avoiding high ranking teams could prove to be an actual detriment to your team positioning. Inactive teams and teams that do not perform well enough will drop positions.  
-🇶 ***What do I get for my division ranking?***  
-🇦 Teams will have their team badge borders changed according to the division they are in so that their current division can be easily identified (and to facilitate flexing). Individual players will be rewarded at the end of the season based on the division their team is in, and their position within that division. Higher division & higher placement within your division means higher personal rewards for you.  
-🇶 ***Do the team events themselves change?***  
-🇦 No. At this stage, team events remain as they always were (But you never know what the future may hold)  
-
 ### Team Season Rewards  
 ![](https://cdn.discordapp.com/attachments/617353655468687390/847676629667938304/image0.png)  
-
 [🔝](#top)    
 {: style="text-align: center;"}  
+
 ##  Wikis & general tutorials
 - **[Official wiki](http://wiki.hcr2.info)**
 - **[Original reddit wiki](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2)**
