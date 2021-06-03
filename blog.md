@@ -5,6 +5,10 @@
 1 June  
 - hcr2.info
   - Previous PE -> separate page  
+  - Associated websites made into spearate pages of this site  
+  - started to change PE setups from words to images
+  - memes: one addition
+
 
 30 May  
 - hcr2.info:
