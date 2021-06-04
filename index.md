@@ -11,7 +11,7 @@
 
 ## Events & Previews
 ### Team Event: Hits Different  
-![](https://cdn.discordapp.com/attachments/719181324610437190/850335291780497408/xyzzy1622806128677.png]
+![](https://cdn.discordapp.com/attachments/719181324610437190/850335291780497408/xyzzy1622806128677.png)
 ### Team Event: Make the Dream Work
 
 ***scooter tractor diesel snowmobile rally***  
