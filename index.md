@@ -18,6 +18,8 @@
 
 ![](https://cdn.discordapp.com/attachments/750874271022317678/847832333426884610/7C673FD6-8DBD-43C5-AAD9-A587E374F5DF.png)  
 
+### Public Event: Next (Wheelie)
+
 ### Public Event: Moons of Mischief (Moon Stunts)
 
 ![](https://pbs.twimg.com/media/E23n3k9WEAEPKpk.jpg:small)  
