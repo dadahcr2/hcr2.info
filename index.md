@@ -11,12 +11,10 @@
 
 ## Events & Previews
 ### Team Event: Hits Different  
+
+![](https://cdn.discordapp.com/attachments/750874271022317678/850744364497895444/A586BAFB-C80E-4E7F-B383-7EADF5003562.png)
+
 ![](https://cdn.discordapp.com/attachments/719181324610437190/850335291780497408/xyzzy1622806128677.png)
-### Team Event: Make the Dream Work
-
-***scooter tractor diesel snowmobile rally***  
-
-![](https://cdn.discordapp.com/attachments/750874271022317678/847832333426884610/7C673FD6-8DBD-43C5-AAD9-A587E374F5DF.png)  
 
 ### Public Event: Next (Wheelie)
 
