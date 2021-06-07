@@ -16,15 +16,8 @@
 
 ![](https://cdn.discordapp.com/attachments/719181324610437190/850335291780497408/xyzzy1622806128677.png)
 
-### Public Event: Next (Wheelie)
-
-### Public Event: Moons of Mischief (Moon Stunts)
-
-![](https://pbs.twimg.com/media/E23n3k9WEAEPKpk.jpg:small)  
-
-![](https://cdn.discordapp.com/attachments/750906124454330429/848659875100753930/image0.png)
-
-![Recommended: ![buggy] ![Ma] ![AC] ![WT]](https://cdn.discordapp.com/attachments/695743667087998996/848728745762357278/image0.png)
+### Public Event: More Torque (Wheelie)
+![](https://cdn.discordapp.com/attachments/850233265306468372/851443300543627264/image0.png)
 
 [Previous public event tracks](./PrevPe.html)
 
