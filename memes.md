@@ -4,6 +4,9 @@
 ##  [⬇](#bottom)  
 {: style="text-align: center;"}  
 
+June 6  
+![](https://media.discordapp.net/attachments/802790231861624832/850931128704958474/Shark-CC.png?width=926&height=653)  
+
 June 1  
 ![](https://cdn.discordapp.com/attachments/644277203273515012/849305059993059328/This_Is_The_Worst_Day_Of_My_Life_01062021171457.jpg)
 
